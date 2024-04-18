@@ -1,0 +1,7 @@
+datasets/books/Books.csv filter=lfs diff=lfs merge=lfs -text
+datasets/books/Ratings.csv filter=lfs diff=lfs merge=lfs -text
+datasets/books/Users.csv filter=lfs diff=lfs merge=lfs -text
+datasets/movies/ratings.csv filter=lfs diff=lfs merge=lfs -text
+datasets/movies/tags.csv filter=lfs diff=lfs merge=lfs -text
+datasets/movies/links.csv filter=lfs diff=lfs merge=lfs -text
+datasets/movies/movies.csv filter=lfs diff=lfs merge=lfs -text
